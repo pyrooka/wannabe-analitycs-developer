@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+rope = "*"
+
+[packages]
+sqlalchemy = "*"
+plotly = "*"
+psycopg2 = "*"
+pymysql = "*"
+
+[requires]
+python_version = "3.7"
