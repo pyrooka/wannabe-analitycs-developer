@@ -1,5 +1,5 @@
 # Wannabe analytics developer
-Just a challenge solution.
+Just a challenge solution. [DEMO](https://pyrooka.github.io/wannabe-analitycs-developer/)
 
 ## Setup
 1. Install Python 3
