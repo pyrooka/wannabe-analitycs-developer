@@ -5,7 +5,8 @@ Just a challenge solution. [DEMO](https://pyrooka.github.io/wannabe-analytics-de
 1. Install Python 3
 2. Install pip
 3. Install PostgreSQL dev lib for psycopg2. On Ubuntu/Debian `sudo apt-get install libpq-dev`
-4. Install the necessary packages:
+4. Install MySQL client library for PyMySQL. On Ubuntu/Debian `sudo apt-get install libmysqlclient-dev`
+5. Install the necessary packages:
    - with pip: `pip install -r requirements.txt`
    - with pipenv: `pipenv install`
 
