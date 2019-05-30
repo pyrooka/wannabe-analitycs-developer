@@ -1,0 +1,4 @@
+{
+  "sourceDB": "liligo:liligo@tcp(localhost:3306)/liligo",
+  "targetDB": "postgres://liligo:liligo@localhost:5432/liligo?sslmode=disable"
+}
